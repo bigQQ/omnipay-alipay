@@ -1,5 +1,5 @@
 {
-  "name": "bigQQ/omnipay-alipay",
+  "name": "bigqq/omnipay-alipay",
   "type": "library",
   "description": "Alipay gateway for Omnipay payment processing library",
   "keywords": [
@@ -11,7 +11,7 @@
     "payment",
     "purchase"
   ],
-  "homepage": "https://github.com/bigQQ/omnipay-alipay",
+  "homepage": "https://github.com/bigqq/omnipay-alipay",
   "license": "MIT",
   "authors": [
     {
